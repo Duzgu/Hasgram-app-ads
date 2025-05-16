@@ -1,1 +1,10 @@
+# Bu dosya, AdMob (ve diğer reklam ağları) için uygulama yayıncısının kimliğini doğrulamak amacıyla kullanılır.
+# Aşağıdaki satırda kendi AdMob yayıncı kimliğinizi kullanmalısınız. (pub- ile başlayan numara)
 
+google.com, pub-6774764242478845, DIRECT, f08c47fec0942fa0
+
+# Açıklamalar:
+# google.com           → Bu satırın hangi reklam ağına ait olduğunu belirtir. AdMob için 'google.com' kullanılır.
+# pub-XXXXXXXXXXXXXXX → AdMob yayıncı kimliğiniz. Sadece size özeldir. AdMob panelinden alınmalıdır.
+# DIRECT               → Reklam alanını doğrudan siz kontrol ediyorsanız 'DIRECT' yazılır.
+# f08c47fec0942fa0     → Google’ın yetkili satıcı ID’sidir. Tüm AdMob yayıncıları için aynıdır.
